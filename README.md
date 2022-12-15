@@ -23,7 +23,7 @@
   <img align="center" alt="Ariel-Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
     
-  ### Clique aqui <a href="https://linktr.ee/gmartinsas"><img align="center" alt="Ariel-Figma" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a> para acessar meus portfólios pela internet!
+  ### Obrigade pela visita e clique aqui <a href="https://linktr.ee/gmartinsas"><img align="center" alt="Ariel-Figma" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a> para acessar meus portfólios pela internet!
   <!--
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
