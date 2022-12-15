@@ -1,8 +1,9 @@
 ## Oiê, tranquilo? Me chamo Gabriel Martins, mas pode me chamar de Ariel, sou um desenvolvedor front-end e web-designer!
 <div align="center">
   <a href="https://github.com/gmartinsas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gmartinsas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmartinsas&layout=compact&langs_count=7&theme=dracula"/>
+    
+   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=gmartinsas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmartinsas&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
