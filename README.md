@@ -1,5 +1,4 @@
-## Oiê, tranquilo?
-### Me chamo Gabriel Martins, mas pode me chamar de Ariel, sou um desenvolvedor front-end e web-designer!
+### Oiê, tranquilo? Me chamo Gabriel Martins, mas pode me chamar de Ariel, sou um desenvolvedor front-end e web-designer!
 <div align="center">
   <a href="https://github.com/gmartinsas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gmartinsas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
