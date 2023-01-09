@@ -23,5 +23,3 @@
   <img align="center" alt="Ariel-XD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">
   <img align="center" alt="Ariel-Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
-  
-  ![Snake animation](https://github.com/gmartinsas/gmartinsas/blob/output/github-contribution-grid-snake.svg)
