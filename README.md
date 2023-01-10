@@ -24,4 +24,6 @@
   <img align="center" alt="Ariel-Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=gmartins007&unique={true|1|on|yes})
+<br><br>
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=gmartins007&width=400&count=1)
